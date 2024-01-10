@@ -11,7 +11,7 @@ html,body{
 
 header{
     height: 100px;
-    background-color: rgb(113, 113, 243);
+    background-color:#3498DB;
     padding: 30px;
 }
 
@@ -21,7 +21,7 @@ header{
 }
 main{
     padding:70px 50px 0px 50px;
-    background-color: rgb(248, 208, 76);
+    background-color:rgb(241,196,15);
     width:70%;
     height: 70%;
 }
@@ -29,11 +29,32 @@ section{
     padding: 20px;
     margin: 30px;
     height: 130px;
-    background-color: rgb(231, 160, 38);
+    background-color: rgb(243,156,18);
 }
 article{
-    background-color: rgba(0, 0, 0, 0.459);
+    background-color: rgb(230,126,34);
     width: 50%;
     height: 35px;
     margin: 10px;
+}
+
+aside{
+    padding: 30px;
+    width: 30%;
+    
+    background-color: rgb(231,76,60);
+}
+
+#section2{
+    width: 50%px;
+    background-color:rgb(192,57,43);
+}
+
+footer{
+    height: 15%;
+    background-color:rgb(46,204,113);
+}
+
+.main-aside{
+    display: flex;
 }
