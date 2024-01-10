@@ -8,3 +8,32 @@ html,body{
     width: 100%;
     height: 100%;
 }
+
+header{
+    height: 100px;
+    background-color: rgb(113, 113, 243);
+    padding: 30px;
+}
+
+#h-div{
+    height: 40px;
+    background-color: rgb(91, 114, 148);
+}
+main{
+    padding:70px 50px 0px 50px;
+    background-color: rgb(248, 208, 76);
+    width:70%;
+    height: 70%;
+}
+section{
+    padding: 20px;
+    margin: 30px;
+    height: 130px;
+    background-color: rgb(231, 160, 38);
+}
+article{
+    background-color: rgba(0, 0, 0, 0.459);
+    width: 50%;
+    height: 35px;
+    margin: 10px;
+}
